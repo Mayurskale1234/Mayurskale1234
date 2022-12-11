@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h1 width="100%" align="center">Hi, <img src="https://github.com/Mayurskale1234/Mayurskale1234/blob/main/hi.gif" height="40px" /> I'm Mayur kale</h1>
 
 
-<p align="center">
+<p align="center" height="40px"/>
   <a href="https://github.com/Mayurskale1234"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=ML+madness;Online+Learning+Addict;Computer+Vision+Practitioner;Curious+about+AI"></a>
 </p>
 
