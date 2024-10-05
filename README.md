@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mayurskale1234
-- 👀 I’m interested in ... AI programming
+- 👀 Data Science and Artificial Intelligence student 
 
-- 🌱 I’m currently learning ... DSAI
-- 💞️ I’m looking to collaborate on ... AI companies
+- 🌱 Strong foundation in Machine Learning, Artificial Intelligence, Data Science and Programming.
 - 📫 How to reach me ... mayurplaysalot@gmail.com
 
 <!---
@@ -32,16 +31,12 @@ You can click the Preview link to take a look at your changes.
     <img alt="LinkedIn" title="LinkedIn Profile" href="https://www.linkedin.com/in/mayur-kale-b4a06a224/" src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
   
 <pre>
-<h2> My Skills :- </h2>
-✎ Languages: Python (Pandas, Numpy)
+<h2> Skills </h2>
+✎ Core AI/ML Skills: Machine Learning Algorithms, Natural Language Processing (NLP), Reinforcement Learning, Computer Vision, Data Analysis, Data     Preprocessing, Feature Engineering, Model Evaluation.
 
-✎ Frameworks : OpenCV.
+✎ Programming & Tools: Python, Java, C, SQL, Matplotlib, Seaborn, Plotly, Tableau, Scikit-Learn, Pandas, NumPy, OpenCV, GitHub.
 
-✎ Computer Vision: Image Recognition, Object Detection..
-
-✎ Analytics Tools:Google Colab, VS Code,.
-
-✎ Mathematics: Probability, Statistics, Linear Algebra and Calculus.
+✎ Analytics Tools:Google Colab, VS Code,Pycharm, Jupiter
 
 </pre>
 
