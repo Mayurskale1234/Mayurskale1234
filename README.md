@@ -23,11 +23,8 @@ You can click the Preview link to take a look at your changes.
     <img alt="Github" title="Github Profile" href="https://github.com/Mayurskale1234?tab=repositories" src="https://img.shields.io/badge/Github-Repositories-blue"></a>
 
   
-  <a href="https://www.kaggle.com/kartik2khandelwal/code">
-    <img alt="Kaggle" title="Kaggle Profile" href="https://www.kaggle.com/mayur5202/code" src="https://img.shields.io/badge/Kaggle-Notebooks-blue"></a>
   
-  
-  <a href="https://www.linkedin.com/in/kartik-khandelwal-7347161ab/">
+  <a href="www.linkedin.com/in/mayur-kale-b4a06a224">
     <img alt="LinkedIn" title="LinkedIn Profile" href="https://www.linkedin.com/in/mayur-kale-b4a06a224/" src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
   
 <pre>
