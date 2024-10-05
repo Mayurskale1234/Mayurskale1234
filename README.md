@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
   
   
-  <a href="www.linkedin.com/in/mayur-kale-b4a06a224">
+  <a href="https://www.linkedin.com/in/mayur-kale-b4a06a224/">
     <img alt="LinkedIn" title="LinkedIn Profile" href="https://www.linkedin.com/in/mayur-kale-b4a06a224/" src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
   
 <pre>
