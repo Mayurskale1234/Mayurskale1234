@@ -18,10 +18,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/Mayurskale1234"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=ML+madness;Online+Learning+Addict;Computer+Vision+Practitioner;Curious+about+AI"></a>
 </p>
 
-<p align="center">
-   <a href="https://github.com/Mayurskale1234?tab=repositories">
-    <img alt="Github" title="Github Profile" href="https://github.com/Mayurskale1234?tab=repositories" src="https://img.shields.io/badge/Github-Repositories-blue"></a>
-
   
   
   <a href="https://www.linkedin.com/in/mayur-kale-b4a06a224/">
