@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayurskale1234
 - 👀 Data Science and Artificial Intelligence student 
 
-- 🌱 Strong foundation in Machine Learning, Artificial Intelligence, Data Science and Programming.
+- 🌱 Strong foundation in Machine Learning, Artificial Intelligence and Genrative AI.
 - 📫 How to reach me ... mayurplaysalot@gmail.com
 
 <!---
@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
   
 <pre>
 <h2> Skills </h2>
-✎ Core AI/ML Skills: Machine Learning Algorithms, Natural Language Processing (NLP), Reinforcement Learning, Computer Vision, Data Analysis, Data     Preprocessing, Feature Engineering, Model Evaluation.
+✎ Core AI/ML Skills: Machine Learning Algorithms, Natural Language Processing (NLP), Generative AI, Computer Vision, Data Analysis, Data Preprocessing, Prompting, Model Evaluation.
 
-✎ Programming & Tools: Python, Java, C, SQL, Matplotlib, Seaborn, Plotly, Tableau, Scikit-Learn, Pandas, NumPy, OpenCV, GitHub.
+✎ Programming & Tools: Python, JavaScript, Typescript, SQL, Matplotlib, Seaborn, Plotly, Tableau, Pandas, NumPy, OpenCV.
 
 ✎ Analytics Tools:Google Colab, VS Code,Pycharm, Jupiter
 
